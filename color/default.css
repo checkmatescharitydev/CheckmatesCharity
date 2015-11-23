@@ -1,11 +1,16 @@
 
 a,.tp-caption a.btn:hover {
+    text-decoration: underline;
 	color: #242c64;
 }
 .top-nav-collapse {
 	background: #242c64;
 }
 
+.navbar-custom a {
+    text-decoration: none;
+	color: #242c64;
+}
 .navbar-custom ul.nav ul.dropdown-menu li a:hover {
 	color: #0f7cc1;
 }
