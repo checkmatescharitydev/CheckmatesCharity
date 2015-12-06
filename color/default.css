@@ -32,6 +32,10 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 	border-color: #0f7cc1;
 }
 
+header {
+    background-color: #242c64;
+}
+
 footer {
     background-color: #242c64;
 }
